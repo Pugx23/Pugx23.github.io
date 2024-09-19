@@ -1,0 +1,33 @@
+    .title{
+    color: black;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    background-color: lightblue;
+    padding: 5px;
+    border: 2px solid black;
+    
+
+    }
+
+    body {
+        background-color: rgb(255, 255, 255);
+    }
+
+    .bdpg{
+        /* background-color: black; */
+        font-size: 30px;
+        text-align: center;
+        
+
+    }
+
+    .fit-picture {
+        width: 250px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 280px;
+        
+
+    }
