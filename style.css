@@ -10,6 +10,11 @@
 
     }
 
+    .container {
+        width: 800px;
+        margin: 0 auto;
+    }
+
     body {
         background-color: rgb(255, 255, 255);
     }
@@ -22,7 +27,7 @@
 
     }
 
-    .fit-picture {
+    .fit-picture1 {
         width: 250px;
         display: block;
         margin-left: auto;
